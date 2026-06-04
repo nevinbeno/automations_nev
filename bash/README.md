@@ -10,8 +10,8 @@
     mkdir -p ~/.local/bin
     ```
 2. Add this location to the `"$PATH"` variable:
-    > In linux, every command is a file. For instance, the location of `ls` command could be determined using the command `command -v ls`. 
-    Every command is some binary executable (use the file command to verify). The location of these commands are pre-defined, and those locations are known to the OS. OS was already instructed to check those locations for commands to execute.  
+    > In linux, every command corresponds to an executable file. Some are compiled binaries, while others are scripts interpreted by programs such as Bash or Python. For instance, the location of `ls` command could be determined using the command `command -v ls`. 
+    Every command is some binary executable (use the `file` command to verify). The location of these commands are pre-defined, and those locations are known to the OS. OS was already instructed to check those locations for commands to execute.  
     But, if we create our own commands (files) inside this newly created location, then, the OS should be informed to consider that location as well. This is what we do by adding the location to "$PATH"
     
     ```bash
