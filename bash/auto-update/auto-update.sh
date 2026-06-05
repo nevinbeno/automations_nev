@@ -53,7 +53,7 @@ if [ -n "$UPGRADABLE" ]; then
 	printf "\r${CYAN}Cleanup completed                  ${RESET} 							\n"
 	printf "\n${GREEN}System is up to date.             ${RESET}\n"
 else
-	printf "${GREEN}System is already up to date..${RESET}    \n"
+	printf "\r${GREEN}System is already up to date..${RESET}    \n"
 fi
 echo
 tput cnorm
