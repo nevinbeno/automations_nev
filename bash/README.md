@@ -1,8 +1,11 @@
 # Let's automate some daily tasks
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash)
+![Ubuntu](https://img.shields.io/badge/Tested-Ubuntu_24.04_LTS-E95420?logo=ubuntu)
+
 ## For the attention of readers
 - We use scripting for the automations. 
 - Instead of of running scripts, we turn them into linux commands, so that, we could run it from anywhere. 
-### Converting bash scripts into linux commands (an example)
+### Converting bash scripts into Linux commands (an example)
 > Steps 1 and 2 to be done only once. The rest to be done per file.
 
 1. We create a dedicated folder for these commands:

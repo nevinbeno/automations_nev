@@ -1,5 +1,8 @@
 # Automations
-A collection of small automations, utilities and experiments for Linux. 
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash)
+![Ubuntu](https://img.shields.io/badge/Tested-Ubuntu_24.04_LTS-E95420?logo=ubuntu)
+
+A collection of small automations, utilities and experiments for Linux Ubuntu. 
 
 ## Goal
 The goal is simple: automate repetitive tasks, learn new tools, and make everyday workflow a little more convinient. 

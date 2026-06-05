@@ -1,4 +1,7 @@
 # Auto-Update
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?logo=gnubash)
+![Ubuntu](https://img.shields.io/badge/Tested-Ubuntu_24.04_LTS-E95420?logo=ubuntu)
+
 ## Aim
 - To automate the update-upgrade-workflow in Linux machines.
 - Here, we turn
@@ -15,6 +18,9 @@ auto-update
 <div align="center">
     <img src="img/v1.png" hight=65></img>
 </div>
+
+## Compatibility
+This script is intended for Ubuntu and other Debian-based distributions that use the `apt` package manager.
 
 ## Setup
 1. Go to your "own-command" folder:
